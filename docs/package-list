@@ -1,6 +1,8 @@
 com.androidex.aexapplibs
 com.androidex.common
 com.androidex.devices
+com.androidex.devices.tech
+com.androidex.devices.tech.pboc
 com.androidex.plugins
 com.androidex.ui
 com.androidex.utils
